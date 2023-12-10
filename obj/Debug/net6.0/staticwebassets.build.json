@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qw50tsaqOVxHJV40nZZchggYqTT/9B9ILhVBj7103KI=",
+  "Source": "Sparta.Patient.API",
+  "BasePath": "_content/Sparta.Patient.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

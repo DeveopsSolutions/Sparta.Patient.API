@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sparta.Patient.API.props" />
+</Project>
